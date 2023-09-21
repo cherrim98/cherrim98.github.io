@@ -437,6 +437,17 @@ function Solitaire() {
 	return new Task($win);
 }
 
+function Spider() {
+	var $win = make_iframe_window({
+		src: "programs/spider/spider.htm",
+		icons: iconsAtTwoSizes("spider"),
+		title: "Spider Solitaire",
+		innerWidth: 585,
+		innerHeight: 384 + 21,
+	});
+	return new Task($win);
+}
+
 function showScreensaver(iframeSrc) {
 	const mouseDistanceToExit = 15;
 	const $iframe = $("<iframe>").attr("src", iframeSrc);
@@ -1264,6 +1275,12 @@ add_icon_not_via_filesystem({
 	shortcut: true
 });
 add_icon_not_via_filesystem({
+	title: "Spider Solitaire",
+	iconID: "spider",
+	open: Spider,
+	shortcut: true
+});
+add_icon_not_via_filesystem({
 	title: "Notepad",
 	iconID: "notepad",
 	open: Notepad,
@@ -1317,6 +1334,7 @@ add_icon_not_via_filesystem({
 	open: MediaPlayer,
 	shortcut: true
 });
+
 
 folder_view.arrange_icons();
 
