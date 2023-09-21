@@ -439,7 +439,7 @@ function Solitaire() {
 
 function Spider() {
 	var $win = make_iframe_window({
-		src: "programs/spider/Spider.htm",
+		src: "programs/spider/SpiderGame.htm",
 		icons: iconsAtTwoSizes("spider"),
 		title: "Spider Solitaire",
 		innerWidth: 585,
