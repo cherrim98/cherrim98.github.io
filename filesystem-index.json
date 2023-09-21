@@ -4515,6 +4515,17 @@
         "sound-recorder.css": null
       }
     },
+	"spider": {
+      "README.md": null,
+      "Spider.htm": null,
+      "Spider.json": null,
+      "SpiderFavIcon_16x16.png": null,
+      "SpiderFavIcon_192x192.png": null,
+	  "SpiderFavIcon_512x512.png": null,
+	  "SpiderGame.htm": null,
+	  "SpiderGame.js": null,
+	  "worker.js": null
+    },
     "winamp": {
       "README.md": null,
       "lib": {
