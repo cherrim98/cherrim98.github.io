@@ -453,8 +453,8 @@ function FreeCell() {
 		src: "programs/freecell/index.html",
 		icons: iconsAtTwoSizes("freecell"),
 		title: "FreeCell",
-		innerWidth: 856,
-		innerHeight: 547 + 21,
+		innerWidth: 585,
+		innerHeight: 384 + 21,
 	});
 	return new Task($win);
 }
