@@ -448,6 +448,17 @@ function Spider() {
 	return new Task($win);
 }
 
+function FreeCell() {
+	var $win = make_iframe_window({
+		src: "programs/freecell/index.html",
+		icons: iconsAtTwoSizes("freecell"),
+		title: "FreeCell",
+		innerWidth: 856,
+		innerHeight: 547 + 21,
+	});
+	return new Task($win);
+}
+
 function showScreensaver(iframeSrc) {
 	const mouseDistanceToExit = 15;
 	const $iframe = $("<iframe>").attr("src", iframeSrc);
@@ -1278,6 +1289,12 @@ add_icon_not_via_filesystem({
 	title: "Spider Solitaire",
 	iconID: "spider",
 	open: Spider,
+	shortcut: true
+});
+add_icon_not_via_filesystem({
+	title: "FreeCell",
+	iconID: "FreeCell",
+	open: FreeCell,
 	shortcut: true
 });
 add_icon_not_via_filesystem({
