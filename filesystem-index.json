@@ -248,6 +248,8 @@
       "fonts-folder-16x16.png": null,
       "fonts-folder-32x32.png": null,
       "fonts-folder-48x48.png": null,
+	  "freecell-16x16.png": null,
+	  "freecell-32x32.png": null,
       "friend-16x16.png": null,
       "hard-disk-drive-16x16-higher-color.png": null,
       "hard-disk-drive-16x16.png": null,
@@ -392,6 +394,8 @@
       "speaker-16x16.png": null,
       "speaker-32x32.png": null,
       "speaker-volume-control-32x32.png": null,
+	  "spider-16x16.png": null,
+	  "spider-32x32.png": null,
       "start-menu-programs-32x32.png": null,
       "start-settings-16x16.png": null,
       "start-settings-32x32.png": null,
@@ -921,6 +925,19 @@
       "explorer.js": null,
       "index.html": null,
       "menus.js": null
+    },
+	"freecell": {
+      "analytics.js": null,
+      "favicon-16x16.png": null,
+      "favicon-32x32.png": null,
+      "flambe.js": null,
+      "index.html": null,
+	  "jquery.min.js": null,
+	  "js": null,
+	  "1js": null,
+	  "main-html.js": null,
+	  "ruffle.js": null,
+	  "spritesheet.png": null
     },
     "js-solitaire": {
       "LICENSE": null,
