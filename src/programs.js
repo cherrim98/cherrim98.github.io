@@ -1293,7 +1293,7 @@ add_icon_not_via_filesystem({
 });
 add_icon_not_via_filesystem({
 	title: "FreeCell",
-	iconID: "FreeCell",
+	iconID: "freecell",
 	open: FreeCell,
 	shortcut: true
 });
