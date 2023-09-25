@@ -6,7 +6,7 @@ This is an unofficial "upgrade" of 98.js, created by Isaiah Odner. It adds two n
 - Win95 Media Player (slightly unfinished)
 - More folders to C: drive
 - Additional websites on Network Neighborhood
-- Spider Solitaire
+- Spider Solitaire & FreeCell
 - Minesweeper fixes (specifically the sunglasses/sad faces)
 
 Nonetheless:
