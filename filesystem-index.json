@@ -248,8 +248,8 @@
       "fonts-folder-16x16.png": null,
       "fonts-folder-32x32.png": null,
       "fonts-folder-48x48.png": null,
-      "freecell-16x16.png": null,
-      "freecell-32x32.png": null,
+	  "freecell-16x16.png": null,
+	  "freecell-32x32.png": null,
       "friend-16x16.png": null,
       "hard-disk-drive-16x16-higher-color.png": null,
       "hard-disk-drive-16x16.png": null,
@@ -578,7 +578,9 @@
 	"Windows 93.url": null,
     "Windows 95 (Virtual x86).url": null,
 	"Windows 98 (Virtual x86).url": null,
-	"Windows 2000 (Virtual x86).url": null
+	"Windows 2000 (Virtual x86).url": null,
+	"Windows XP (React).url": null,
+	"Windows 7 Simulator by Visnalize.url": null
   },
   "package-lock.json": null,
   "package.json": null,
