@@ -5,12 +5,12 @@
  `---' `---' o /`  |  \___.' o  `._.' /      `---|
                \___/`                        \___/                                         
 
-98.js is a simulator (not an emulator) of Windows 98.
+98plus.js is a simulator (not an emulator) of Windows 98. The original site, 98.js, has been long abandoned and I, Cherrim98, decided to continue it!
 It includes projects from several different people!
 This project exists to bring these fantastic clones
 together under one roof.
 
-You can find more information about the project here:
+You can find more information about the original project here:
 	https://github.com/1j01/98#readme
 
 This file lists the included projects.
@@ -67,6 +67,10 @@ Clippy by Smore:
 
 Win95 Media Player by mhm13dev
 	https://github.com/mhm13dev/win95-media-player-esm
+
+Spider Solitaire and FreeCell by gamesboss.com (Spider Solitaire recreated by lRusso)
+	https://github.com/lrusso/Spider
+
 
 --------------------------------------
 Assets
