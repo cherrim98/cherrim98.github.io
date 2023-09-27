@@ -1,13 +1,16 @@
 
 # ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
 
-This is an unofficial "upgrade" of 98.js, created by Isaiah Odner. It adds two new apps:
-- 3D Screensaver
+This is an unofficial "upgrade" of 98.js, created by Isaiah Odner. It adds several new features:
+- 3D Maze Screensaver
 - Win95 Media Player (slightly unfinished)
+- Spider Solitaire
+- FreeCell
 - More folders to C: drive
 - Additional websites on Network Neighborhood
-- Spider Solitaire & FreeCell
 - Minesweeper fixes (specifically the sunglasses/sad faces)
+- Solitaire fixes (fixes the deal button after winning a game)
+- Updated README
 
 Nonetheless:
 
