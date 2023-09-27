@@ -1,7 +1,7 @@
 
 # ![](images/icons/windows-update-32x32.png) [98plus.js](https://98plus.js.org)
 
-This is an unofficial "upgrade" of 98.js, created by Isaiah Odner. It adds several new features:
+This is an unofficial "upgrade" of 98.js, which was originally created by Isaiah Odner. It adds several new features:
 - 3D Maze Screensaver
 - Win95 Media Player (slightly unfinished)
 - Spider Solitaire
