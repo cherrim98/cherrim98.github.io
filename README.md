@@ -1,5 +1,5 @@
 
-# ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
+# ![](images/icons/windows-update-32x32.png) [98plus.js](https://98plus.js.org)
 
 This is an unofficial "upgrade" of 98.js, created by Isaiah Odner. It adds several new features:
 - 3D Maze Screensaver
